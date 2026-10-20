@@ -1,6 +1,6 @@
 # Gamma Prime Generator - 4x Faster RSA Prime Generation
 
-**Inventor:** gamma-prime-dz | Constantine, DZ
+**Inventor:** gamma-prime-dz | Biskra, DZ
 **Field:** Cryptography / Number Theory / RSA
 **Based on:** Non-trivial zeros of Riemann Zeta Function
 
